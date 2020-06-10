@@ -14,7 +14,7 @@ Important components included:
 7)Created Module wise specific reusable functions.
 8)Created Test Scripts for smoke and regression suites.
 9)Exceptions must be handled using exception handling.
-10)Implemented Maven and Jenkins.
+10)Implemented Maven.
 
 Challenges Faced:
 1) Price slider in site needed to be set to appropriate limit which was tough task to perform.
@@ -25,7 +25,3 @@ Challenges Faced:
 
 Things that could have better:
 Price slider in the used site was supposed to be set at 15,000 but the slider is being set at 15,220. So for the slider value can be set to exact value that would have been better.
-
-
-Experience:
-Overall experience from this activity was quite amazing. Complete team worked together to perform the various given tasks and even helped each other to overcome any difficulties. Through the activity, learned and implemented various concepts that enhanced our skills.
