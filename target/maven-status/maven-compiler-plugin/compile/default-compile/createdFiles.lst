@@ -1,0 +1,11 @@
+com\Cognizant\baseClass\LandingPage.class
+com\Cognizant\baseClass\GiftCard.class
+com\Cognizant\baseClass\BeingAtHomePage.class
+com\Cognizant\utils\ExtentReportManager.class
+com\Cognizant\object\ExcelUtils.class
+com\Cognizant\baseClass\BookshelfDetails.class
+com\Cognizant\baseClass\PageBaseClass.class
+com\Cognizant\utils\DateUtils.class
+com\Cognizant\object\WriteExcelData.class
+com\Cognizant\baseClass\StudyChairs.class
+com\Cognizant\object\TakeScreenshot.class
